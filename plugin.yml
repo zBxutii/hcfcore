@@ -1,0 +1,6 @@
+name: HCFCore
+author: zBqutii & Blascrit
+description: HCF Core by zBqutii and Blascrit
+version: 1.0
+main: HCF\Loader
+api: 3.0.0
